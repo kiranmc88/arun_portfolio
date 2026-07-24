@@ -59,7 +59,7 @@ export default function Contact() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
               {/* Email Card */}
               <a 
-                href="mailto:arunkumar.m.c.2026@gmail.com" 
+                href="mailto:arunmc9631@gmail.com" 
                 className="p-5 rounded-2xl glass-card flex items-center space-x-4 border border-slate-200 dark:border-white/5 hover:border-indigo-500/50 hover:bg-indigo-500/5"
               >
                 <div className="p-3 bg-red-500/10 text-red-500 rounded-xl">
@@ -67,15 +67,15 @@ export default function Contact() {
                 </div>
                 <div>
                   <span className="text-[10px] uppercase font-bold tracking-widest text-slate-400">Email</span>
-                  <p className="text-xs font-semibold text-slate-850 dark:text-white truncate max-w-[150px]">
-                    arun.mc@gmail.com
+                  <p className="text-xs font-semibold text-slate-850 dark:text-white truncate max-w-[170px]" title="arunmc9631@gmail.com">
+                    arunmc9631@gmail.com
                   </p>
                 </div>
               </a>
 
               {/* Instagram Card */}
               <a 
-                href="https://instagram.com/arun_kumar_m_c" 
+                href="https://instagram.com/a_r_u_n__m.c" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="p-5 rounded-2xl glass-card flex items-center space-x-4 border border-slate-200 dark:border-white/5 hover:border-pink-500/50 hover:bg-pink-500/5"
@@ -86,7 +86,7 @@ export default function Contact() {
                 <div>
                   <span className="text-[10px] uppercase font-bold tracking-widest text-slate-400">Instagram</span>
                   <p className="text-xs font-semibold text-slate-850 dark:text-white">
-                    @arun_kumar_m_c
+                    @a_r_u_n__m.c
                   </p>
                 </div>
               </a>
