@@ -15,6 +15,7 @@ import Skills from './components/Skills';
 import Quotes from './components/Quotes';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Chatbot from './components/Chatbot';
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -127,6 +128,9 @@ export default function App() {
 
             {/* Footer */}
             <Footer />
+            
+            {/* Chatbot Agent */}
+            <Chatbot />
           </motion.div>
         )}
       </div>

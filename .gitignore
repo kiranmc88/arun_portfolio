@@ -27,3 +27,6 @@ dist-ssr/
 # Antigravity/Gemini files
 .gemini/
 .system_generated/
+
+# Environment Variables
+.env
